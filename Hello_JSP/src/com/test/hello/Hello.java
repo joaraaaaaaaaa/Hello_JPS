@@ -11,6 +11,9 @@ public class Hello {
 		// 01215238:origin/master edit by jar
 		System.out.println("Github edit");
 		
+		// 031524: local/master edit by jar
+		System.out.println("local edit 1234");
+		// 031524: end
 	}
 
 }
