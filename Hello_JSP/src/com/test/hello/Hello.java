@@ -19,6 +19,11 @@ public class Hello {
 		System.out.println("GitHub edit 4567");
 		// 0412518:end
 		
+
+		
+		// 023659:hotfix edit by jar
+		System.out.println("지각금지");
+		// 023659:end
 	}
 
 }
