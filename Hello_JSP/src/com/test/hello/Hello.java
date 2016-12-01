@@ -7,6 +7,10 @@ public class Hello {
 		// 0123456:hotfix edit by jar
 		System.out.println("hotfix edit/modify");
 		// 0123456:end
+		
+		// 023659:hotfix edit by jar
+		System.out.println("지각금지");
+		// 023659:end
 	}
 
 }
